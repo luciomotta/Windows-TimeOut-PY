@@ -1,0 +1,6 @@
+APP SIMPLES
+
+
+Site---> Postar no Github
+
+Shuitdown--> tERMINAR app (As hr´s está definido Minutos & MIN está seg)
